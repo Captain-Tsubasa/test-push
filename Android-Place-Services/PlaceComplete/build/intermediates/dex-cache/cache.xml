@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-214531739fccc891d3e288e7534ff894dca46949.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-3997dc31b00b4743a04455a7a504af5b5cf90182.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-e79b57ad9b611be81d634c7c1cc15352ebc05ace.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-976bb8a221333dda4fa58b31cd8937e56f9fa13c.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-f0fa54d1edeb12fa16b3664c8f649b93da7d500c.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-26890a6b86baa3f5a7da844416276ea6cda899a4.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-b3296c70059df7968250355d520b2178a21ab31f.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-58cfbccb4ff0f453c219d963523ee63a2ff7dd94.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-4afbb01e65f7f31b6b5090cbc658123f5843216a.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-61d51cab3ffa6c3c510faa29707c23ae4c74c695.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-6e00da5df1ca0614019768203fba1f708500635f.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-dd702be35b343c58e7cbbfcbb34787362030efd4.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-543d993a1c3ec16c56f4a761637202895295584f.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-b53dac288c63a82af8ccb94c529a8028bf0511fc.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-9ee3086903435fc87ea2aef543525c000853c36d.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-a656046c49b0a190fb1ec52c25dd2f2d2032e4a5.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-aae11da6faa004907a671413e5064c4409727217.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-79997a29184abba9ac4b88d4b223bd6becfef3a9.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Applications/Development/Android/adt-bundle-mac-x86_64-20130522/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1a303361d44d9cb8bbc7be03deab65ab41f25b02.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-1996e4a654b29402414d21e4ad6f62a0eea7b912.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-043c07562d94c05fa800bedf9da2d98bf7b00f1f.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-f8dd9f5f0475c8002064949f034420a0992cad4d.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-4f5fb5fe45295af29e96dfe1bf5d67923acfe3fa.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-3fe9eb1ef84ee7613c50f948103bc43baeae90c6.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-a979b48f1b83ba1a3b0210a9bb88198948c742e5.jar" />
+    </item>
+    <item
+        jar="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/zhangzonghui/Documents/Development/APIs/Androids/Android-Place-Services/PlaceComplete/Application/build/intermediates/pre-dexed/debug/classes-777c5f6c066b15b14fe39c73a1df0abf5d4a9cc1.jar" />
+    </item>
+
+</items>
